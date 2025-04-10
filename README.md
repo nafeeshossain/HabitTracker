@@ -18,7 +18,4 @@ Habit Hero is a sleek and simple Java-based desktop app that helps you build bet
 - Java JDK 8 or higher
 - An IDE (like IntelliJ IDEA, VSCode, Eclipse) or terminal with `javac`
 
-### Run the App
-```bash
-javac src/*.java
-java src.StylishHabitTracker
+
