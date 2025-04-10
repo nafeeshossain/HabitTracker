@@ -10,7 +10,7 @@ Habit Hero is a sleek and simple Java-based desktop app that helps you build bet
 - 🎨 Stylish and beginner-friendly Java GUI (Swing)
 
 ## 🖼️ Screenshot
-![App UI](assets/screenshots/main_ui.png)
+![App UI](main_ui.png)
 
 ## 🚀 Getting Started
 
